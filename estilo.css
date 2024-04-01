@@ -1,0 +1,15 @@
+#h1 {
+	color: #6A53FE;
+}
+
+h2 {
+	color: #11FAD4;
+}
+* {
+	font-family: "Cedarville Cursive", cursiva; peso de fuente: 400; estilo de fuente: normal;
+}
+body{
+	background: url(pollo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
